@@ -1,0 +1,67 @@
+{
+  "category": "webmail",
+  "created_date": "2025-09-15T22:48:58.865361",
+  "default_ports": [
+    80,
+    443,
+    2048
+  ],
+  "dependencies": [
+    "php",
+    "php-curl",
+    "php-json"
+  ],
+  "description": "RainLoop is a free and open-source Webmail. Simple, modern & fast web-based email client",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/webmail/rainloop",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/webmail/rainloop",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.865386",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "rainloop",
+  "repository_url": "https://github.com/howtomgr/rainloop",
+  "spec_version": "2.0",
+  "subcategory": "webmail",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "webmail",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "RainLoop Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/webmail/rainloop"
+}
